@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{BD496003-4ADE-CD6A-9FD2-CC96A78FB959}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PBLM",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
